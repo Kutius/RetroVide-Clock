@@ -1,0 +1,5 @@
+{
+  "name": "RetroVibe Clock",
+  "description": "A nostalgic, VFD-inspired digital clock featuring customizable retro themes and an AI-powered 'Time Transmission' receiver that broadcasts snippets from parallel retro universes.",
+  "requestFramePermissions": []
+}
